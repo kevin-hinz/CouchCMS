@@ -1,6 +1,7 @@
 # [![CouchCMS](https://www.couchcms.com/img/logo.png "CouchCMS")](https://www.couchcms.com/)
 ### A simple open-source CMS for designers.
 ### A copy made by Kevin Hinz to test the SonarCloud Scanner...
+some text to test a commit; PR; rebase; squash and rename commit.
 
 ##### No knowledge of PHP required at all.
 Take any HTML/CSS template and make it CMS enabled in minutes. Just drop in a few special XHTML tags into your code and watch your static web pages come to life!
